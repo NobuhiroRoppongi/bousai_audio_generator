@@ -1,0 +1,6 @@
+streamlit
+yt-dlp
+pydub
+openai
+pandas
+openpyxl
